@@ -1,0 +1,4 @@
+.DS_Store
+.venv
+/input/Keystrokes.zip
+uv.lock

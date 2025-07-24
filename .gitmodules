@@ -1,0 +1,3 @@
+[submodule "tools/charfreq-tools"]
+	path = tools/charfreq-tools
+	url = https://github.com/csmclaren/charfreq-tools.git
